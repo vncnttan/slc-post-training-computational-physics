@@ -1,0 +1,11 @@
+Ammeter,source,1C,Positive polarity towards (cell) = 1D
+Ammeter,load1,1I,Positive polarity towards (cell) = 1J
+Ammeter,load2,10K,Positive polarity towards (cell) = 11K
+Ammeter,load3,13D,Positive polarity towards (cell) = 13C
+Resistor,load1,1F,2.0
+Resistor,load2,6K,3.0
+Resistor,load3,13G,4.0
+Voltmeter,load1,4F,Rated voltage level to be measured = 1000.0,Positive polarity towards (cell) = 4G
+Voltmeter,load2,6M,Rated voltage level to be measured = 1000.0,Positive polarity towards (cell) = 7M
+Voltmeter,load3,10G,Rated voltage level to be measured = 1000.0,Positive polarity towards (cell) = 10F
+VoltageSource,acsource,8A,Peak (Volts) = 12.728000,Frequency (Hertz) = 60.000000,Phase (degrees) = 0.000000,Dc offset = 0.000000,Positive polarity towards (cell) = 7A

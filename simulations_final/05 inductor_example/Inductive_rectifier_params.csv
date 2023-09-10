@@ -1,0 +1,11 @@
+Inductor,filter,1A,0.001
+Ammeter,Isource,1C,Positive polarity towards (cell) = 1D
+Ammeter,Ioad,5E,Positive polarity towards (cell) = 4E
+Diode,D1,2A,Voltage level (V) = 120.000000,Cathode polarity towards (cell) = 1A
+Resistor,Cfilter,4J,100.0
+Resistor,Rsource,5A,100.0
+Resistor,load,7E,100.0
+Voltmeter,source,7C,Rated voltage level to be measured = 120.0,Positive polarity towards (cell) = 6C
+Voltmeter,diode,7H,Rated voltage level to be measured = 120.0,Positive polarity towards (cell) = 6H
+Capacitor,filter,7J,1e-05,Positive polarity towards (cell) = 6J
+VoltageSource,Vsource,9A,Peak (Volts) = 120.000000,Frequency (Hertz) = 60.000000,Phase (degrees) = 0.000000,Dc offset = 0.000000,Positive polarity towards (cell) = 8A
